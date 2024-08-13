@@ -1,0 +1,56 @@
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background: linear-gradient(80deg, green, blue);
+            
+            
+        }
+        .container {
+            background-color: white;
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-img {
+            border-radius: 50%;
+            width: 100px;
+            background: linear-gradient(135deg, green, blue);
+             padding: 7px;
+          ;
+        }
+        .
+        }
+        }
+        .username {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .description {
+            font-size: 16px;
+            color: #777;
+            margin-bottom: 30px;
+        }
+        .button {
+            display: block;
+            background-color: #000;
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(255, 0, 0, 0.5), 0 0 10px rgba(255, 0, 0, 0.3), inset 0 0 10px rgba(255, 0, 0, 0.7);
+            transition: box-shadow 0.3s ease;
+            
+        }
+        .button:hover {
+            background-color: #444;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 12px;
+            color: #aaa;
+        }
